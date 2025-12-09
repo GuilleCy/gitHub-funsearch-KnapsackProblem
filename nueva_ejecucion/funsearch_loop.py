@@ -175,7 +175,7 @@ def main():
     df_recuperado = cargar_base_pickle(ruta_base)
     print(df_recuperado.head())
 
-    API_KEY = "AIzaSyDtdPt1YgyKu98gmkWptmhmcluZFfZxTSo"
+    API_KEY = "#colocar su clave de api de gemini#"
     MODEL = "gemini-2.5-flash"
     N_ITER = 200
 
